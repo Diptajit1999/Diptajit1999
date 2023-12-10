@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Clickit](https://dainty-snake-6499.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://diptajit1999.github.io/](https://diptajit1999.github.io/)
+- 👨‍💻 Portfolio-(https://diptajit1999.github.io/)
 
 - 💬 Ask me about **Frontend Like React,Javascript,HTML,CSS**
 
