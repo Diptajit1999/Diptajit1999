@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptajit1999" alt="diptajit1999" /></a> </p>
 
-- 🔭 I’m currently working on [Traveller](https://648ff05711e1f629dd64fb2c--visionary-centaur-d4c88a.netlify.app/)
-
 - 🌱 I’m currently learning **Full Stack Web Dev at Masai School.**
-
-- 👯 I’m looking to collaborate on [Financia](https://aquamarine-alfajores-b85955.netlify.app/)
-
-- 🤝 I’m looking for help with [Clickit](https://dainty-snake-6499.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://diptajit1999.github.io](https://diptajit1999.github.io)
 
